@@ -30,8 +30,7 @@ This project demonstrates the use of **Large Language Models (LLMs)** to create 
 
 
 ## 📚 How to Run the Project
-
-1. **Clone the repository**:
+**Clone the repository**:
    ```bash
    git clone https://github.com/your-username/music-app.git
    cd music-app
